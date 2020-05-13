@@ -17,5 +17,3 @@ function divSelector() {
   let picsClass = $('.pics')
   return picsClass
 }
-
-
