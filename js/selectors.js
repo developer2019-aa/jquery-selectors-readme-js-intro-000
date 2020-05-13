@@ -1,3 +1,3 @@
 const paragraphSelector = () => {
-  $('p')
+  return $('p')
 }
