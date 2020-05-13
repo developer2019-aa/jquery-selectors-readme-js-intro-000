@@ -12,3 +12,8 @@ function ninjaBabySelector() {
   let babyID = $('#baby-ninja');
   return babyID
 }
+
+function divSelector() {
+  let picsClass = $('.pics')
+  return picsClass
+}
