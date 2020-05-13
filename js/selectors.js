@@ -1,3 +1,3 @@
-const paragraphSelector = () => {
+function paragraphSelector() {
   $('p')
 }
